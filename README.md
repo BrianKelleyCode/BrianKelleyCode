@@ -1,1 +1,8 @@
-               ![images](https://user-images.githubusercontent.com/106387626/170707873-7a5e4b73-7a42-427c-ae2b-df466d3166ff.jpg)
+Front-End Developer with a proven ability to collaborate effectively with other level developers while spending extra time to be mentored. With a passion for both personal growth and for software development, I attended a bit of coding bootcamps to learn new languages while sharpening existing skills. Ready to apply my passion for coding to a talented engineering team to develop quality solutions.
+
+My knowledge:
+
+. HTML
+. CSS
+. WordPress
+. JavaScript
